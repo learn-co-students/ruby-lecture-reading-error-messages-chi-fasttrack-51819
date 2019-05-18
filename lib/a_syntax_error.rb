@@ -1,3 +1,4 @@
-x = 1
-
-x = 
+def x
+  puts x = 1
+end
+x
